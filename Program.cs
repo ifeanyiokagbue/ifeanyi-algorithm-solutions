@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using ifeanyi_algorithm_solutions.algorithms.arrays;
+using ifeanyi_algorithm_solutions.algorithms.arrays.stack;
 
 Console.WriteLine("");
 
@@ -12,9 +13,12 @@ Console.WriteLine("");
 //}
 //Console.WriteLine(two_sum.two_sum_solution_bool(nums, 6).ToString());
 
-//Implementation of Max Profit
-int[] nums = new int[] { 2, 6, 3, 11 };
-Console.WriteLine($"The maximum profit is {max_profit.MaxProfit(nums)}");
+////Implementation of Max Profit
+//int[] nums = new int[] { 2, 6, 3, 11 };
+//Console.WriteLine($"The maximum profit is {max_profit.MaxProfit(nums)}");
+
+//Implementation of Valid Parentheses
+Console.WriteLine(valid_parentheses.IsValid("(]"));
 
 Console.WriteLine("");
 
