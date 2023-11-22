@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ifeanyi_algorithm_solutions.algorithms.arrays.stack
+namespace ifeanyi_algorithm_solutions.algorithms.stack
 {
     public class valid_parentheses
     {

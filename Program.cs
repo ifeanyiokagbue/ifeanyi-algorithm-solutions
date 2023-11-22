@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using ifeanyi_algorithm_solutions.algorithms.arrays;
-using ifeanyi_algorithm_solutions.algorithms.arrays.stack;
+using ifeanyi_algorithm_solutions.algorithms.stack;
 
 Console.WriteLine("");
 
