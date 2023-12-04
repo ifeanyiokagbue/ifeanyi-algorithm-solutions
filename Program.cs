@@ -18,7 +18,15 @@ Console.WriteLine("");
 //Console.WriteLine($"The maximum profit is {max_profit.MaxProfit(nums)}");
 
 //Implementation of Valid Parentheses
-Console.WriteLine(valid_parentheses.IsValid("(]"));
+//Console.WriteLine(valid_parentheses.IsValid("(]"));
+
+//Implementation of Product Array Except Self
+int[] nums = new int[] { 2, 3, 4, 5 };
+var result = product_array_except_self.ProductArrayExceptSelf(nums);
+foreach (int res in result)
+{
+    Console.WriteLine(res);
+}
 
 Console.WriteLine("");
 

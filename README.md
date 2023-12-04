@@ -10,6 +10,7 @@ would show the question and either the commit that shows the code or a link to t
 #### Arrays
 1. Two Sum - https://github.com/ifeanyiokagbue/ifeanyi-algorithm-solutions/issues/3
 2. Best Time to Sell Stock - https://github.com/ifeanyiokagbue/ifeanyi-algorithm-solutions/issues/1
+3. Product Array Except Self - https://github.com/ifeanyiokagbue/ifeanyi-algorithm-solutions/issues/4
 
 #### Stack
 1. Valid Parentheses - https://github.com/ifeanyiokagbue/ifeanyi-algorithm-solutions/issues/2
